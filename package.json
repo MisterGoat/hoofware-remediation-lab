@@ -1,0 +1,10 @@
+{
+  "name": "hoofware-remediation-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Disposable dependency vulnerability fixture for Hoofware scanner testing",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "minimist": "1.2.5"
+  }
+}
